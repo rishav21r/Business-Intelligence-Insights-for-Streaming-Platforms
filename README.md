@@ -1,4 +1,4 @@
-# Business-Intelligence-Insights-for-Streaming-Platforms
+# Business Intelligence Insights for Streaming Platforms
 This repository contains a project for analyzing and visualizing content on major streaming platforms (Netflix, Prime Video, Disney+, and Hulu). The project includes data preparation, visualization, and strategic analysis to support Salt Productions in identifying new opportunities and enhancing its business intelligence (BI) strategy.
 
 ## Project Background
