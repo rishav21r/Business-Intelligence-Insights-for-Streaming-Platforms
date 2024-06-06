@@ -30,4 +30,12 @@ A Python script ([dataprep.py](scripts/dataprep.py)) was used to clean and prepr
 ## Tableau Dashboard
 
 The following dashboard was created to visualize the streaming platforms' data. (Tableau public dashboard viz link 
-[Airlines Analysis Performance Dashboard](https://public.tableau.com/views/BusinessIntelligenceInsightsforStreamingPlatforms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)).
+[Airlines Analysis Performance Dashboard](https://public.tableau.com/views/BusinessIntelligenceInsightsforStreamingPlatforms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)). Below is the screenshot of the dashboard:
+
+![alt text][logo1]
+
+[logo1]: dashboard/dashboard1.png "Streaming Platforms Dashboard"
+
+![alt text][logo2]
+
+[logo2]: dashboard/dashboard2.png "Streaming Platforms Dashboard"
