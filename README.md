@@ -27,3 +27,7 @@ The data used in this project includes listings of all the movies and TV shows a
 A Python script ([dataprep.py](scripts/dataprep.py)) was used to clean and preprocess the data. This involved standardizing ratings and exploding genre listings to facilitate detailed analysis.
 
 
+## Tableau Dashboard
+
+The following dashboard was created to visualize the streaming platforms' data. (Tableau public dashboard viz link 
+[Airlines Analysis Performance Dashboard](https://public.tableau.com/views/BusinessIntelligenceInsightsforStreamingPlatforms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)).
