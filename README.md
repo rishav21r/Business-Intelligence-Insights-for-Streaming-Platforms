@@ -24,6 +24,6 @@ The data used in this project includes listings of all the movies and TV shows a
 
 ## Data Preparation
 
-A Python script (`data_preparation.py`) was used to clean and preprocess the data. This involved standardizing ratings and exploding genre listings to facilitate detailed analysis.
+A Python script ([dataprep.py](scripts/dataprep.py)) was used to clean and preprocess the data. This involved standardizing ratings and exploding genre listings to facilitate detailed analysis.
 
 
