@@ -24,11 +24,13 @@ The data used in this project includes listings of all the movies and TV shows a
 
 ## Dashboard Creation
 The construction of a Tableau-based dashboard for Salt Productions is an exercise in transforming copious amounts of raw data into a coherent narrative that facilitates strategic decision-making. Tableau's acclaimed visualization capabilities render an interactive and user-friendly experience, transforming complex data from diverse streaming platforms into a structured and visually engaging summary. This dashboard is carefully designed to prevent cognitive overload by presenting data in a format that accelerates comprehension and supports efficient analysis.
+
 The dashboard aims to answer several business questions:
 - How does the content distribution across different streaming platforms compare?
 - What are the prevalent genres on each platform, and what does this imply about their content strategies?
 - Where does the content originate from, and how does this reflect on the global content strategy?
 - How has the availability of streaming content evolved? 
+
 By addressing these questions, the dashboard serves as a decision-support tool, providing critical insights into content distribution and genre prevalence across streaming platforms, which informs Salt Productions' content strategy alignment and identification of market gaps. By revealing the geographic origin of content, it helps strategize for global market penetration, while the analysis of content evolution aids in forecasting industry trends to pinpoint new opportunities for future projects.
 
 
