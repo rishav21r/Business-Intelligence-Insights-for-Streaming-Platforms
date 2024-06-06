@@ -37,24 +37,40 @@ By addressing these questions, the dashboard serves as a decision-support tool, 
 
 ## Data Preparation
 
+Data quality and structure are crucial for insightful analysis. The initial phase involved cleaning and transforming the dataset using Python's pandas library. Composite entries in the 'listed_in' column were separated and categorized by splitting and exploding the string values, converting multiple genres into individual records while retaining corresponding data points. Inconsistencies in the 'rating' column were standardized, consolidating various terms like 'NOT RATED' and age-specific ratings into coherent categories to ensure uniformity and accurate representation of content maturity levels, essential for strategic considerations.
+
 A Python script ([dataprep.py](scripts/dataprep.py)) was used to clean and preprocess the data. This involved standardizing ratings and exploding genre listings to facilitate detailed analysis.
 
 
 ## Tableau Dashboard
 
-The following dashboard was created to visualize the streaming platforms' data. (Tableau public dashboard viz link 
+Using Tableau, a strategic dashboard was created to compare streaming content across Netflix, Prime Video, Disney+, and Hulu. 
 [Airlines Analysis Performance Dashboard](https://public.tableau.com/views/BusinessIntelligenceInsightsforStreamingPlatforms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)). Below is the screenshot of the dashboard:
 
 ![alt text][logo1]
 
 [logo1]: dashboard/dashboard1.png "Streaming Platforms Dashboard"
 
+Prime Video leads in volume, while Disney+ offers a more selective range. Pie charts show Prime Video and Netflix have a substantial share of TV shows.
+
+Genre and rating analysis reveal content strategies: Netflix favours international movies and dramas; Prime Video includes drama, comedy, and suspense; Disney+ focuses on family, animation, and action-adventure; Hulu balances drama and comedy with international appeal.
+
+
 ![alt text][logo2]
 
 [logo2]: dashboard/dashboard2.png "Streaming Platforms Dashboard"
 
-## Global Streaming Content Origins
 
-This dashboard illustrates the origin of streaming content across different platforms, highlighting the leading countries in content production.
+Content origins visualization shows the US as a major content hub, with significant contributions from the UK and India, highlighting diverse content-sourcing strategies for a global audience.
 
+The trend of streaming content availability shows exponential growth, peaking in 2019, reflecting increased production and acquisition in a competitive market demanding continuous innovation and expansion.
 
+## Strategic Recommendation
+
+Insights from Salt Productions' dashboard highlight the need for content diversification. While drama and comedy dominate, international offerings are sparse, presenting an opportunity to capture emerging markets and cater to a diverse audience, reducing genre oversaturation.
+
+Data suggests potential in original content within popular genres, appealing to niche markets seeking innovation. Localization strategies can tailor content to regional tastes, enhancing market presence and audience loyalty.
+
+Integrating the strengths of newly acquired platforms—genre specializations and demographics—can create a robust content ecosystem, improving subscriber value and competitive positioning. Expanding Disney+'s focus on family and educational content meets growing demand and demonstrates social responsibility.
+
+Investing in advanced analytics, AI, and machine learning is crucial for predictive insights, optimizing recommendations, and enhancing user experience. Additionally, in-depth user engagement analysis will provide detailed behavioural insights, enabling a personalized content strategy and increasing viewer satisfaction and loyalty.
