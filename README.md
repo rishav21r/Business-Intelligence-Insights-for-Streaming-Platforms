@@ -45,7 +45,7 @@ A Python script ([dataprep.py](scripts/dataprep.py)) was used to clean and prepr
 ## Tableau Dashboard
 
 Using Tableau, a strategic dashboard was created to compare streaming content across Netflix, Prime Video, Disney+, and Hulu. 
-[Airlines Analysis Performance Dashboard](https://public.tableau.com/views/BusinessIntelligenceInsightsforStreamingPlatforms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)). Below is the screenshot of the dashboard:
+([Airlines Analysis Performance Dashboard](https://public.tableau.com/views/BusinessIntelligenceInsightsforStreamingPlatforms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)). Below is the screenshot of the dashboard:
 
 ![alt text][logo1]
 
